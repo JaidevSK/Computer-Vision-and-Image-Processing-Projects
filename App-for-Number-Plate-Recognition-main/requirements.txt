@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-python
+imutils
+pytesseract
+pandas
